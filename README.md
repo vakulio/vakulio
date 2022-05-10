@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 # I'm Vladimir Vakula
-## _Junior JavaScript Developer_
----
-### Summary &#9997;
+--
 I am an JS developer. Passionate about anything tech-related, I'm currently mastering React.
 
 ### Hard Skills &#128190;

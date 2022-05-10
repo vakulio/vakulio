@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm Vladimir Vakula
---
+
 I am an JS developer. Passionate about anything tech-related, I'm currently mastering React.
 
 ### Hard Skills &#128190;
@@ -27,7 +27,7 @@ I am an JS developer. Passionate about anything tech-related, I'm currently mast
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakulio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts &#9742;
 

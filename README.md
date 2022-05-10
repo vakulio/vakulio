@@ -24,7 +24,6 @@ I am an JS developer. Passionate about anything tech-related, I'm currently mast
 - Critical Thinking
 - Problem Solving
 
-```
 ### Education 	&#10002;
 ##### Online learning
 

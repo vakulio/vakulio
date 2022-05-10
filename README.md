@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I a'm Vladimir Vakula
+# I'm Vladimir Vakula
 ## _Junior JavaScript Developer_
 
 ---

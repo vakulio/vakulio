@@ -29,13 +29,5 @@ I am an JS developer. Passionate about anything tech-related, I'm currently mast
 
 ## Contacts &#9742;
 
-| Form | LINK |
-| ------ | ------ |
-| Location | Belarus, Brest |
-| LinkedIn | [Vladimir Vakula][LdIn] |
-| Mail | vlad.vakula@gmail.com |
-| My phone | +375336584677 |
 
----
-   [LdIn]: <https://www.linkedin.com/in/vladimir-vakula/>
    

@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# I'm Vladimir Vakula
-
 I am an JS developer. Passionate about anything tech-related, I'm currently mastering React.
 
 ### Hard Skills &#128190;

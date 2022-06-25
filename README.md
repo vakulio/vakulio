@@ -33,6 +33,14 @@ I am an JS developer. Passionate about anything tech-related, I'm currently mast
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakulio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts &#9742;
+| Form | LINK |
+| ------ | ------ |
+| Location | Belarus, Brest |
+| LinkedIn | [Vladimir Vakula][LdIn] |
+| Mail | vlad.vakula@gmail.com |
+| My phone | +375336584677 |
 
+---
+   [LdIn]: <https://www.linkedin.com/in/vladimir-vakula/>
 
    

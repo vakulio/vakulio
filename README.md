@@ -35,8 +35,6 @@ I am an JS developer. Passionate about anything tech-related, I'm currently mast
 > Intermediate (B2)
 
 ---
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakulio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts &#9742;

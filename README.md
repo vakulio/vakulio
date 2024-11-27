@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am an FullStack Developer
 ---------------------------
 
-Hi, my name is Uladzimir, and I am a JavaScript developer. (Perhaps, of course, it's more correct to say "TypeScript developer", but I believe in the power of JS). I'm interested in both front-end and back-end development. I like to learn new things. Experience with TypeScript, HTML, CSS, Scss, Angular, Next.js, Express.js, React, Redux-thunk, Expo, MongoDB. Some experience with AWS and Azure services. On top of that, I also have some experience with UI Component Libraries/Frameworks. In my free time, I mentor trainees and assist in preparing for the assessment.
+Hi, my name is Uladzimir, and I am a JavaScript developer. I'm interested in both front-end and back-end development. I like to learn new things. Experience with TypeScript, HTML, CSS, Scss, Angular, Next.js, Express.js, React, Redux-thunk, Expo, MongoDB. Some experience with AWS and Azure services. On top of that, I also have some experience with UI Component Libraries/Frameworks. In my free time, I mentor trainees and assist in preparing for the assessment.
 
 * ✉️  You can contact me at [vlad.vakula@gmail.com](mailto:vlad.vakula@gmail.com)
 * 🤝  I'm open to collaborating on Intersting Projects
